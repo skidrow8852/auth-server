@@ -1,0 +1,10 @@
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T00:27:05.564Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T06:29:47.280Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user ltBpnV0Hpj with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T10:30:39.229Z","user":"ltBpnV0Hpj"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user ltBpnV0Hpj with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T10:48:02.793Z","user":"ltBpnV0Hpj"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T11:15:32.410Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T11:16:32.292Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T12:25:58.175Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user jFPvHj2Hxa with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T13:05:51.401Z","user":"jFPvHj2Hxa"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user jFPvHj2Hxa with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T17:01:40.920Z","user":"jFPvHj2Hxa"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-11T18:26:30.318Z"}

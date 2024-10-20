@@ -1,0 +1,7 @@
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2024-06-05T08:39:10.909Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2024-06-05T10:32:05.294Z"}
+{"level":"error","message":"Connect message error Invalid type: array (expected object)","timestamp":"2024-06-05T11:03:46.881Z"}
+{"level":"info","message":"Client disconnect: undefined","timestamp":"2024-06-05T11:03:47.114Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2024-06-05T11:03:47.115Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2024-06-05T23:29:16.390Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2024-06-05T23:48:25.803Z"}

@@ -1,0 +1,2 @@
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 5lD94tBSpg with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-09-05T01:39:58.552Z","user":"5lD94tBSpg"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-09-05T10:35:14.512Z"}

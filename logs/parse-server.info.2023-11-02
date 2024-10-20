@@ -1,0 +1,3 @@
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user BJrMrL8LAA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-11-02T18:56:26.837Z","user":"BJrMrL8LAA"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-11-02T19:21:04.568Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-11-02T23:39:58.867Z"}

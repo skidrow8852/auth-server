@@ -1,0 +1,4 @@
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user jFPvHj2Hxa with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-20T10:59:54.167Z","user":"jFPvHj2Hxa"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user drWakEsjp3 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-20T15:15:46.303Z","user":"drWakEsjp3"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user jFPvHj2Hxa with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-20T15:58:06.893Z","user":"jFPvHj2Hxa"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user ltBpnV0Hpj with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-04-20T16:43:19.506Z","user":"ltBpnV0Hpj"}
